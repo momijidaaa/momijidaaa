@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=momijidaaa&show_icons=true&theme=tokyonight" alt="momijidaaa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=momijidaaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
   <br/>
 
@@ -8,6 +8,6 @@
 
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momijidaaa&theme=tokyonight" alt="momijidaaa's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momijidaaa&theme=tokyonight" alt="Activity Graph" />
 
 </div>
