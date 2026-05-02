@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=momijidaaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=momijidaaa&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 
   <br/>
 
